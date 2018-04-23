@@ -1,3 +1,5 @@
 # RoboCleaner
 RoboCleaner MK2
-Assure Quality of separate details and mechanisms
+
+Set several Connections. This may help to understand how it works
+======

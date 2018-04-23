@@ -1,3 +1,4 @@
 # RoboCleaner
 RoboCleaner MK2
-Assure Quality
+
+Set several Connections. This may help to understand how it works
